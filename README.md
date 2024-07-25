@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Creator
-<p>Dindam Darusalam</p></P>(NIM 206230013)</P>
+<p>Dindam Darusalam(NIM 206230013)</P>
 
 <p>Program Studi Teknik Industri Pertanian<p>
 </p>Universitas Linggabuana PGRI Sukabumi</p>
