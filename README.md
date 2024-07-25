@@ -44,12 +44,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Creator
-1. Dindam Darusalam (NIM 206230013)
-2. Rian Permana (NIM 206230002)
-3. Anjar Hidayat (NIM 206230001)
-4. Murdiyan Edzwan Nazib (NIM 206230006)
+Dindam Darusalam (NIM 206230013)
 
-<p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
+<p>Program Studi Teknik Industri Pertanian<p>
+</p>Universitas Linggabuana PGRI Sukabumi</p>
 
 If you have any questions or suggestions, feel free to open an issue or contact us at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
 
